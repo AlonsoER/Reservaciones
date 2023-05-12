@@ -1,8 +1,9 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
-    <style name="Base.Theme.Reservaciones" parent="Theme.Material3.DayNight.NoActionBar">
+    <style name="Base.Theme.Reservaciones" parent="Theme.AppCompat.NoActionBar">
         <!-- Customize your light theme here. -->
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimary">#99A98F</item>
     </style>
 
     <style name="Theme.Reservaciones" parent="Base.Theme.Reservaciones" />
